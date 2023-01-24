@@ -1,13 +1,13 @@
 # Olá! :raising_hand: Neste projeto eu criei um site responsivo e com menus com dropdown utilizando somente CSS e HTML! 
 
-## Criei ele durante um curso de Mobile First da Alura :D
+### Criei ele durante um curso de Mobile First da Alura :D
 
 <br>
 
-## [Deploy do Website - dê uma olhada em como ficou o site :wink: ](https://alexandreduara.github.io/Alura-Books/)
+### [Deploy do Website - dê uma olhada em como ficou o site :wink: ](https://alexandreduara.github.io/Alura-Books/)
 <br>
 
-## Um GIF Rápido mostrando o projeto já finalizado :space_invader:
+### Um GIF Rápido mostrando o projeto já finalizado :space_invader:
 ![Um Gif rápido mostrando o projeto](./assets/img/projeto-finalizado.gif)
 
 
