@@ -8,7 +8,7 @@
     background-repeat: no-repeat;
 }
 
-.container__botao:checked ~ .cabecalho__menu-hamburguer{
+.container__botao:checked ~ .container__rotulo span {
     background-image: url("../img/menu-branco.svg");
 }
 
@@ -84,8 +84,6 @@
     background: var(--azul-degrade);
     color: var(--branco);
 }
-
-
 
 .container__texto{
     display: none;
